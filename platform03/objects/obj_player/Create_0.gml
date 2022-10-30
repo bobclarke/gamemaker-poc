@@ -4,7 +4,7 @@
 // ------------------------------------------------
 xspd = 0;
 yspd = 0;
-move_spd = 3;
+move_spd = 2;
 
 // ------------------------------------------------
 // Declare an array of sprites for the player
