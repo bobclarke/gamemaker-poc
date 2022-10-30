@@ -17,4 +17,4 @@ sprite[3] = spr_player_left;
 // ------------------------------------------------
 // Set out initial direction
 // ------------------------------------------------
-facing_direction = 1
+facing_direction = 4
